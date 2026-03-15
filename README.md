@@ -10,7 +10,9 @@ This is useful when you want to extract different views of the same scene withou
 ---
 
 
-## Demo Video
+## Demo
+
+Click the video below to see Scene Framer in action.
 
 [![Scene Framer Demo](https://img.youtube.com/vi/gXuoy5l7rXs/0.jpg)](https://youtu.be/gXuoy5l7rXs)
 
