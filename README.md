@@ -60,4 +60,17 @@ Each shot can be resized to a different resolution if needed.
 
 An example workflow is included in the repository.
 
+---
 
+---
+
+## Author
+
+**Ankush Gawande**  
+VFX Compositor | Genrative AI
+
+Website:  
+https://www.ankushgawande.com/
+
+LinkedIn:  
+https://www.linkedin.com/in/ankush-gawande-97430562
