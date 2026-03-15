@@ -9,6 +9,13 @@ This is useful when you want to extract different views of the same scene withou
 
 ---
 
+
+## Demo Video
+
+[![Scene Framer Demo](https://img.youtube.com/vi/gXuoy5l7rXs/0.jpg)](https://youtu.be/gXuoy5l7rXs)
+
+---
+
 ## What This Node Does
 
 Normally, if you want several cropped versions of the same image in ComfyUI, you need to:
